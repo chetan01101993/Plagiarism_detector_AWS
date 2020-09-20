@@ -54,10 +54,7 @@ if __name__ == '__main__':
     
     
     ## --- Your code here --- ##
-    
-    #parser.add_argument('--n_estimators', type=int, default=50)
-    #parser.add_argument('--max_depth', type=int, default=5)
-    
+        
     ## TODO: Train the model
     model =LinearSVC()
     
